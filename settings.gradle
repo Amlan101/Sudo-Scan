@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Sudo Scan"
 include ':app'
+include ':openCVLibrary'
